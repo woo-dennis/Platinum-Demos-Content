@@ -9,3 +9,4 @@ The Platinum Demos Content page in Github is home to demonstrations and tutorial
 - [Contribution guidelines](.github/CONTRIBUTING.md)
 - [Getting Started](https://gatsby-theme-carbon.now.sh/getting-started)
 - [Guides](https://gatsby-theme-carbon.now.sh/guides/configuration)
+- [Contact](TBD)
