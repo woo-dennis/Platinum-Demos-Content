@@ -1,8 +1,8 @@
 <h1 align="center">
-  Gatsby Theme Carbon
+  Platinum Demos Content
 </h1>
 
-The Gatsby Carbon theme includes all the configuration you need to build a beautiful site inspired by the [Carbon Design System](https://www.carbondesignsystem.com).
+The Platinum Demos Content page in Github is home to demonstrations and tutorials for Automation solutions. It is built with the [Gatsby Theme Carbon](https://github.com/carbon-design-system/gatsby-theme-carbon).
 
 ## Resources
 
